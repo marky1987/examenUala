@@ -1,0 +1,12 @@
+Model\Product.class
+Model\Suscription.class
+repository\ProductRepository.class
+Enum\MoodEnum.class
+Model\User.class
+Service\UserService.class
+util\DateUtil.class
+repository\UserRepository.class
+Service\impl\ProductServiceImpl.class
+Enum\NotificationChannelEnum.class
+Service\impl\UserServiceImpl.class
+Service\ProductService.class
